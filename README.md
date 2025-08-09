@@ -1,5 +1,6 @@
 # Spam Detector (Building AI Project)
-
+## Summary
+This project is a simple spam detection model using Naive Bayes, created for the Building AI course. It classifies messages as spam or ham based on training data.
 A tiny **spam vs. ham** text classifier built from scratch using a Multinomial Naive Bayes model in pure Python.  
 This project is intentionally simple to satisfy the **Building AI** course project requirement: it demonstrates data handling, model training, evaluation, and prediction in a transparent way without external ML libraries.
 
